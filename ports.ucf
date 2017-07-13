@@ -1,0 +1,39 @@
+net "clk" loc = "b8";
+
+net "SWITCH7" loc = "r17";
+net "SWITCH6" loc = "n17";
+net "SWITCH5" loc = "l13";
+net "SWITCH4" loc = "l14";
+net "SWITCH3" loc = "k17";
+net "SWITCH2" loc = "k18";
+net "SWITCH1" loc = "h18";
+net "SWITCH0" loc = "g18";
+
+net "CA" loc = "l18";
+net "CB" loc = "f18";
+net "CC" loc = "d17";
+net "CD" loc = "d16";
+net "CE" loc = "g14";
+net "CF" loc = "j17";
+net "CG" loc = "h14";
+net "DP" loc = "c17";
+
+net "AN0" loc = "f17";
+net "AN1" loc = "h17";
+net "AN2" loc = "c18";
+net "AN3" loc = "f15";
+
+net "BUTTON3" loc = "h13";
+net "BUTTON2" loc = "e18";
+net "BUTTON1" loc = "d18";
+net "BUTTON0" loc = "b18";
+NET "BUTTON0" CLOCK_DEDICATED_ROUTE = FALSE;
+
+net "LED7" loc = "r4";
+net "LED6" loc = "f4";
+net "LED5" loc = "p15";
+net "LED4" loc = "e17";
+net "LED3" loc = "k14";
+net "LED2" loc = "k15";
+net "LED1" loc = "j15";
+net "LED0" loc = "j14";
